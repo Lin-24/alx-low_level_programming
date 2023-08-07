@@ -2,6 +2,8 @@
 
 /**
  * sum_listint - works out the sum of all the data in a listint_t list
+ * @head: Pointer to the head of the linked list.
+ *
  * Return: resulting sum
  */
 int sum_listint(listint_t *head)
